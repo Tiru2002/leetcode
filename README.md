@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Tiru2002/leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Tiru2002/leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Tiru2002/leetcode/tree/master/0258-add-digits) |
+| [0319-bulb-switcher](https://github.com/Tiru2002/leetcode/tree/master/0319-bulb-switcher) |
 ## Matrix
 |  |
 | ------- |
@@ -111,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Tiru2002/leetcode/tree/master/0258-add-digits) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/Tiru2002/leetcode/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
