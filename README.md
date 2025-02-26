@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Tiru2002/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Tiru2002/leetcode/tree/master/0049-group-anagrams) |
 | [0204-count-primes](https://github.com/Tiru2002/leetcode/tree/master/0204-count-primes) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Tiru2002/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Math
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Tiru2002/leetcode/tree/master/0049-group-anagrams) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Tiru2002/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Linked List
 |  |
 | ------- |
@@ -127,4 +129,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Tiru2002/leetcode/tree/master/0042-trapping-rain-water) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Tiru2002/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Tiru2002/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Tiru2002/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
