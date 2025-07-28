@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Tiru2002/leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Tiru2002/leetcode/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/Tiru2002/leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Tiru2002/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Tiru2002/leetcode/tree/master/0049-group-anagrams) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Tiru2002/leetcode/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/Tiru2002/leetcode/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/Tiru2002/leetcode/tree/master/0125-valid-palindrome) |
 | [0287-find-the-duplicate-number](https://github.com/Tiru2002/leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -172,4 +174,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1908-recyclable-and-low-fat-products](https://github.com/Tiru2002/leetcode/tree/master/1908-recyclable-and-low-fat-products) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Tiru2002/leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
