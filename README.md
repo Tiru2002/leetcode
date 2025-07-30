@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Tiru2002/leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Tiru2002/leetcode/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/Tiru2002/leetcode/tree/master/0014-longest-common-prefix) |
 | [0042-trapping-rain-water](https://github.com/Tiru2002/leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Tiru2002/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Tiru2002/leetcode/tree/master/0049-group-anagrams) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tiru2002/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/Tiru2002/leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Tiru2002/leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Tiru2002/leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Tiru2002/leetcode/tree/master/0125-valid-palindrome) |
@@ -186,4 +188,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tiru2002/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Tiru2002/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
